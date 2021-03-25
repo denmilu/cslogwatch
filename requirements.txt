@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # cslogwatch.py: 15
-PyYAML == 5.1.1
+PyYAML == 5.4
 
 # cslogwatch.py: 18
 # lib/cs_log_parser.py: 7
